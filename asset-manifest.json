@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-firebase-auth-template/static/css/main.09fa1192.chunk.css",
-    "main.js": "/react-firebase-auth-template/static/js/main.648fbb3f.chunk.js",
-    "main.js.map": "/react-firebase-auth-template/static/js/main.648fbb3f.chunk.js.map",
+    "main.js": "/react-firebase-auth-template/static/js/main.d47fc865.chunk.js",
+    "main.js.map": "/react-firebase-auth-template/static/js/main.d47fc865.chunk.js.map",
     "runtime-main.js": "/react-firebase-auth-template/static/js/runtime-main.7dc7203f.js",
     "runtime-main.js.map": "/react-firebase-auth-template/static/js/runtime-main.7dc7203f.js.map",
-    "static/js/2.e6d44c81.chunk.js": "/react-firebase-auth-template/static/js/2.e6d44c81.chunk.js",
-    "static/js/2.e6d44c81.chunk.js.map": "/react-firebase-auth-template/static/js/2.e6d44c81.chunk.js.map",
+    "static/js/2.a17fd257.chunk.js": "/react-firebase-auth-template/static/js/2.a17fd257.chunk.js",
+    "static/js/2.a17fd257.chunk.js.map": "/react-firebase-auth-template/static/js/2.a17fd257.chunk.js.map",
     "index.html": "/react-firebase-auth-template/index.html",
-    "precache-manifest.3dae491cc2c2ca7fc0f689ad070d1d69.js": "/react-firebase-auth-template/precache-manifest.3dae491cc2c2ca7fc0f689ad070d1d69.js",
+    "precache-manifest.15191e810472f60cab11ddedbc1eb403.js": "/react-firebase-auth-template/precache-manifest.15191e810472f60cab11ddedbc1eb403.js",
     "service-worker.js": "/react-firebase-auth-template/service-worker.js",
     "static/css/main.09fa1192.chunk.css.map": "/react-firebase-auth-template/static/css/main.09fa1192.chunk.css.map",
-    "static/js/2.e6d44c81.chunk.js.LICENSE.txt": "/react-firebase-auth-template/static/js/2.e6d44c81.chunk.js.LICENSE.txt"
+    "static/js/2.a17fd257.chunk.js.LICENSE.txt": "/react-firebase-auth-template/static/js/2.a17fd257.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7dc7203f.js",
-    "static/js/2.e6d44c81.chunk.js",
+    "static/js/2.a17fd257.chunk.js",
     "static/css/main.09fa1192.chunk.css",
-    "static/js/main.648fbb3f.chunk.js"
+    "static/js/main.d47fc865.chunk.js"
   ]
 }
